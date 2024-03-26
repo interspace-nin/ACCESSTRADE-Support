@@ -20,7 +20,7 @@ Report
   - What’s the difference between pending, approved and rejected conversions?
 
 API
-  - API endpoints
+  - [API endpoints](./API-endpoints.md)
   - How do I authenticate publisher API requests?
   - User Provisioning API
   - Website APIs
