@@ -1,3 +1,5 @@
+### ACCESSTRADE Publisher FAQ
+
 General
   - What should I do before starting a promotion with ACCESSTRADE?
   - Can I add two or more websites or blogs?
