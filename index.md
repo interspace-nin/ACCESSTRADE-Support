@@ -1,3 +1,5 @@
+![ACCESSTRDE Logo](images/AT-logo.png)
+
 ### ACCESSTRADE Publisher FAQ
 
 General
