@@ -1,4 +1,4 @@
-![ACCESSTRDE Logo](./images/AT-logo.png)
+![ACCESSTRDE Logo](./images/AT_logo.png)
 
 ### ACCESSTRADE Publisher FAQ
 
